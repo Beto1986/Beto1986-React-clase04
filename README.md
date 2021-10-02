@@ -1,3 +1,5 @@
+En este ejercicio se realiza una copia de texto desde un input a otro por medio de un botón de copiado de Leyenda. Luego existe otro botón para eliminar todos los valores ingresados.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

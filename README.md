@@ -1,4 +1,4 @@
-En este ejercicio se realiza una copia de texto desde un input a otro por medio de un botón de copiado de Leyenda. Luego existe otro botón para eliminar todos los valores ingresados.
+En este ejercicio se realiza una copia de texto desde un input a otro por medio de un botón de copiado de Leyenda. Luego existe otro botón para eliminar todos los valores ingresados. Los cambios se encuentran en el archivo app.js.
 
 # Getting Started with Create React App
 
